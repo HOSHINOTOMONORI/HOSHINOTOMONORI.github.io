@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages!!!!!!!!!!!!
+### Hoshino Tomonori Webpage
 
-You can use the [editor on GitHub](https://github.com/HOSHINOTOMONORI/HOSHINOTOMONORI.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 星野 友則 (ほしの とものり)
+## 略歴
+2013年 3月 北里大学医療衛生学部医療検査学科 (指導教官：小幡 文弥教授)
+2015年 3月 京都大学大学院医学研究科医科学専攻修士課程修了 (指導教官：高橋 良輔教授)
+2019年 3月 京都大学大学院医学研究科医学専攻博士課程満期退学 (指導教官：高橋 良輔教授)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-### ああああ
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HOSHINOTOMONORI/HOSHINOTOMONORI.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more details see [Reseachmap](https://researchmap.jp/tomonorihoshino/).
